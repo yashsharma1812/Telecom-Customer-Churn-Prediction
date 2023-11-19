@@ -40,3 +40,4 @@ https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data
 
 
 ## Final Model:
+We have used Logistic Regression, Decision Tree and Random Forest for Model Development. Based on the evaluation of models, we will select Logistic Regression for making predictions as it has accuracy of about 80% and better recall and precision value than the other two models.
